@@ -7,7 +7,7 @@
 # Swift Coding Challenges
 
 Solutions for coding challanges. Usable for trainings before technical interviews and as brain teasers to fight with boredom.
-Challanges are from the book [Hacking with swift](https://www.hackingwithswift.com/store/swift-coding-challenges)solutions are my own. If you would like to see book authors Paul Hudson solutions and clarification, check the book, higly recomend. 
+Challanges are from the book [Hacking with swift](https://www.hackingwithswift.com/store/swift-coding-challenges) solutions are my own, if you would like to see book authors Paul Hudson solutions and clarification, check the book, higly recomend check this sbook. 
 
 [1. Analyze string and return true if it contains only unique letters](https://github.com/aivars/Swift-Coding-Challenges/blob/master/Challenges/AreLettersUnique.swift)
 
