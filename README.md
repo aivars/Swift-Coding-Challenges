@@ -13,4 +13,4 @@ Challanges are from the book [Hacking with swift](https://www.hackingwithswift.c
 
 [2. Analyze string and returns true if it reads the same in reverse (is palinorme)](https://github.com/aivars/Swift-Coding-Challenges/blob/master/Challenges/2IsStringAPalindrome.swift)
 
-3. Analyze two strings and return true if their contain the same charracters
+[3. Analyze two strings and return true if their contain the same charracters](https://github.com/aivars/Swift-Coding-Challenges/blob/master/Challenges/3DoesStringsContainSameCharracters.swift)
