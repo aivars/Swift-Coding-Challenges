@@ -4,8 +4,8 @@
 import Foundation
 
 func challenge3 (input1: String, input2: String) -> Bool {
-    var inputArray1 = Array (input1.characters).sorted()
-    var inputArray2 = Array (input2.characters).sorted()
+    let inputArray1 = Array (input1.characters).sorted()
+    let inputArray2 = Array (input2.characters).sorted()
     
     return inputArray1 == inputArray2
 }
