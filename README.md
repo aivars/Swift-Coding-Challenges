@@ -19,3 +19,5 @@ Challanges are from the book [Hacking with swift](https://www.hackingwithswift.c
 [4. Does one string contain another](Swift-Coding-Challenges/Challenges/4DoesStringContainOther.swift)
 
 [5. Count specific characters in a String](Swift-Coding-Challenges/Challenges/5CountCharatcters.swift)
+
+[6. Remove duplicate letters from a string](Swift-Coding-Challenges/Challenges/6RemoveDuplicateLetters.swift)
