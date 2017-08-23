@@ -4,8 +4,8 @@ import Foundation
 
 func counrCharracters (_ string: String, _ count: Character) -> Int {
     var result = 0
-    for charCount in string.characters {
-        if charCount == count {
+    for char in string.characters {
+        if char == count {
             result += 1
         }
         
