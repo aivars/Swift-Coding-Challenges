@@ -17,4 +17,5 @@ Challanges are from the book [Hacking with swift](https://www.hackingwithswift.c
 [3. Analyze two strings and return true if their contain the same charracters](https://github.com/aivars/Swift-Coding-Challenges/blob/master/Challenges/3DoesStringsContainSameCharracters.swift)
 
 [4. Does one string contain another](Swift-Coding-Challenges/Challenges/4DoesStringContainOther.swift)
-[5. Count secific characters in a String](Swift-Coding-Challenges/Challenges/5CountCharatcters.swift)
+
+[5. Count specific characters in a String](Swift-Coding-Challenges/Challenges/5CountCharatcters.swift)
