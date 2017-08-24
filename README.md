@@ -24,4 +24,7 @@ Challanges are from the book [Hacking with swift](https://www.hackingwithswift.c
 [6. Remove duplicate letters from a string](Swift-Coding-Challenges/Challenges/6RemoveDuplicateLetters.swift)
 
 [7. Condense whitespace from a string](Swift-Coding-Challenges/Challenges/7CondenseWhitespace.swift)
+[Compare two strings, and returns true if one string is rotation of the other](Swift-Coding-Challenges/Challenges/StringIsRotated.swift)
+[Find evenly dividable numbers in range](Swift-Coding-Challenges/Challenges/evenlyDivisibleNumbers.swift)
+[Generate random in given range](Swift-Coding-Challenges/Challenges/generateRandomInRange.swift)
 
