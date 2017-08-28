@@ -33,4 +33,4 @@ Challanges are from the book [Hacking with swift](https://www.hackingwithswift.c
 [Generate random in given range](Swift-Coding-Challenges/Challenges/generateRandomInRange.swift)
 
 ### Algoritms
-[Bubble sort]
+[Bubble sort](Swift-Coding-Challenges/Challenges/bubbleSort.swift)
